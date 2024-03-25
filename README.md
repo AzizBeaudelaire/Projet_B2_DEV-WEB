@@ -29,7 +29,7 @@ Ce projet est un site de livraison de repas développé dans le cadre du cours d
   - React
 
 - Backend :
-  - Laravel (PHP)
+  - Django
 
 - Base de Données :
   - MySQL
