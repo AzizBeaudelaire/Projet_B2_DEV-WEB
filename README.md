@@ -48,8 +48,6 @@ Ce projet est un site de livraison de repas développé dans le cadre du cours d
 - [Votre Nom](lien_vers_votre_profil_github)
 - [Nom du Coéquipier](lien_vers_son_profil_github)
 
-N'hésitez pas à contribuer en soumettant des pull requests ou en ouvrant des issues pour signaler des problèmes ou des améliorations.
-
 ## Licence
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
