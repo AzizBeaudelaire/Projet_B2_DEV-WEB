@@ -45,8 +45,8 @@ Ce projet est un site de livraison de repas développé dans le cadre du cours d
 
 ## Contributeurs
 
-- [Votre Nom](lien_vers_votre_profil_github)
-- [Nom du Coéquipier](lien_vers_son_profil_github)
+-Aziz Hugo-Medhi
+- Hamdune Amoussa
 
 ## Licence
 
