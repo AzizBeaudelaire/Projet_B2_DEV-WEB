@@ -46,7 +46,7 @@ Ce projet est un site de livraison de repas développé dans le cadre du cours d
 ## Contributeurs
 
 - Aziz Hugo-Medhi
-- Hamdune Amoussa
+- Hamdoune Amoussa
 
 ## Licence
 
